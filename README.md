@@ -70,4 +70,5 @@ Give a ⭐️ if you like this project!
 
 - Font Awesome for icons
 - Inspiration from modern web design trends
+
 - Built with ❤️ and ☕
