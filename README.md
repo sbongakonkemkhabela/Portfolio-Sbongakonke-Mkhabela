@@ -45,7 +45,7 @@ A stunning, modern portfolio website featuring vibrant colors, smooth animations
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://sbongakonkemkhabela.github.io/portfolio-website)
+[View Live Demo]((https://sbongakonkemkhabelaportfolio.netlify.app/))
 
 ## 📄 License
 
@@ -73,4 +73,5 @@ Give a ⭐️ if you like this project!
 - Inspiration from modern web design trends
 
 - Built with ❤️ and ☕
+
 
