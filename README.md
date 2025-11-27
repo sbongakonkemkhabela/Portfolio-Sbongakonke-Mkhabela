@@ -2,7 +2,8 @@
 
 A stunning, modern portfolio website featuring vibrant colors, smooth animations, and a glossy design. Built with pure HTML, CSS, and JavaScript - no frameworks required!
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/667eea/ffffff?text=Portfolio+Preview)
+![Portfolio Preview](<img width="1880" height="932" alt="image" src="https://github.com/user-attachments/assets/6a56dd8f-74e0-43c0-85ca-0a58723ddabe" />
+)
 
 ## ✨ Features
 
@@ -59,7 +60,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 **Your Name**
 
 - GitHub: [@sbongakonkemkhabela](https://github.com/sbongakonkemkhabela)
-- LinkedIn: [Your Name](https://linkedin.com/in/sbongakonkemkhabela)
+- LinkedIn: [Sbongakonke Mkhabela](https://linkedin.com/in/sbongakonkemkhabela)
 - Email: mkhabelafefe@gmail.com
 
 ## ⭐ Show Your Support
@@ -72,3 +73,4 @@ Give a ⭐️ if you like this project!
 - Inspiration from modern web design trends
 
 - Built with ❤️ and ☕
+
